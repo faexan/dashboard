@@ -1,0 +1,20 @@
+
+/* CSS */
+
+/* CSS */
+.button-47 {
+  align-items: center;
+  background: #FFFFFF;
+  border: 0 solid #E2E8F0;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  box-sizing: border-box;
+  border-left: 8px solid rgb(126, 126, 31);
+  font-size: 0.9rem;
+  height: 170px;
+  text-decoration: none;
+  width: 350px;
+  border-radius: 8px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
